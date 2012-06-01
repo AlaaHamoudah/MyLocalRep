@@ -27,7 +27,7 @@ function deleteVisit(res){
     else{
         $(".message").text("لم يتم حذف الزيارة");
     }
-
+//eshi\\
 	console.log(res)
 cosnole.log('alaa edit here');
 }
