@@ -27,6 +27,7 @@ function deleteVisit(res){
     else{
         $(".message").text("لم يتم حذف الزيارة");
     }
+	console.log(res)
 
 }
 function onError(request, status, error) {
