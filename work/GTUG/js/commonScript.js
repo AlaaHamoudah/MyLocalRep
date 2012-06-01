@@ -125,7 +125,7 @@ $(document).ready(function(){
         }
     });
 
-    //disable, enable visit date input
+   /* //disable, enable visit date input
     $(".visit-target").click(function(){
 
         if($(this).is(":checked")){
@@ -142,7 +142,7 @@ $(document).ready(function(){
             );
         }
     });
-
+*/
 
 });
 
