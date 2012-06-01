@@ -37,7 +37,8 @@ ul, ol, dl {page-break-before:avoid}
 
 #main {width:100%;}
 #header {border-bottom:0.5pt solid #000;}
-#footer {border-top:10.5pt solid #000;}
+#footer {border-top:0.5pt solid #000;}
 
-.noprint, .noscreen {display:bock;}
+.noprint, .noscreen {display:none;}
 
+#tray, #nav, #col-browser, #btns, .col-more {display:none;}
