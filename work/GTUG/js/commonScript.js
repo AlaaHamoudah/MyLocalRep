@@ -28,7 +28,7 @@ function deleteVisit(res){
         $(".message").text("لم يتم حذف الزيارة");
     }
 	console.log(res)
-
+cosnole.log('alaa edit here');
 }
 function onError(request, status, error) {
     alert("Error: "+error);
